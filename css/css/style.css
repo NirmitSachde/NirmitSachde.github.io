@@ -538,7 +538,7 @@ a {
     .cover-v1 .container, .cover-v1 .container > .row {
       height: 100vh;
       min-height: 650px; }
-  .cover-v1 .heading {
+  .cover-v1 .heading {  
     font-size: 5rem;
     font-weight: 900;
     color: #fff; }
